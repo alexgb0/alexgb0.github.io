@@ -1,0 +1,21 @@
+{
+	"description": "TestNFT For checking metadata stuff.", 
+	"external_url": "https://alexgb0.github.io/", 
+	"image": "ipfs://QmdcSZus4eWU643oQRfP2RVPssr3zbDKhfqg3Jtc17ndox", 
+	"name": "Crow",
+	"attributes": [
+		{
+			"trait_type": "Animal",
+			"value": "Crow"
+		},
+		{
+			"trait_type": "Pattern",
+			"value": "None"
+		},
+		{
+			"trait_type": "Color",
+			"value": "Black"
+		}
+	]
+}
+
