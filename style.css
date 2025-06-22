@@ -1,7 +1,18 @@
 .content {
-	color: white;
+	margin: 2em;
+	color: whitesmoke;
 	position: absolute;
 	z-index: 1;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+a:hover {
+	text-decoration-line: underline;
 }
 
 canvas {

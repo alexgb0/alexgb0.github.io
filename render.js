@@ -85,8 +85,11 @@ function change_color_lights(color) {
 function render() {
 
 	const link_github = document.querySelector("#github");
+	const link_evil = document.querySelector("#evil");
 	if (link_github.matches(":hover")) {
 		change_color_lights(0xff00ff);
+	} else if (link_evil.matches(":hover")) {
+		change_color_lights(0xff0000);
 	} else {
 		change_color_lights(0xffffff);
 	}
